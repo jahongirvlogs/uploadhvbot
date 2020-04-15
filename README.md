@@ -25,7 +25,7 @@ cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
-- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+- For FeedBack and Suggestions, please feel free to say in [@JokkerKing](https://telegram.dog/Jokkerking)
 
 #### LICENSE
 - GPLv3
